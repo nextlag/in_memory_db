@@ -1,0 +1,13 @@
+{
+  "logging": {
+    "level": "debug",
+    "output": "data/logs/out.log"
+  },
+  "engine": {
+    "type": "in_memory",
+    "partitions_number": 0
+  },
+  "launcher": {
+    "type": "cmd"
+  }
+}
